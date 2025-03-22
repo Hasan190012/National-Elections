@@ -1,0 +1,19 @@
+@use '../../variable.scss' as mixin;
+
+.copyRigth{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin: mixin.$spaceY;
+}
+
+h4{
+    font-weight: 400;
+    font-size: 0.8rem;
+    color: mixin.$secondaryTextColor;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-bottom: 10px;
+    
+  
+    
+}

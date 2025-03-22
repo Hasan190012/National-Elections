@@ -1,0 +1,42 @@
+[
+
+    {
+        "id" : "1",
+        "fName": "Mohamed",
+        "lName": "Farmaajo",
+        "age" : "55",
+        "birthPlace": "Aabud waaq",
+        "party" : "Nabad iyo Nolol",
+        "backgoundStudy": "The former President of Somalia (2017–2022), has an academic background in history and political science. He studied in the United States, earning a Bachelor’s degree in Political Science from the University at Buffalo, New York. His studies focused on governance, public administration, and political systems, which later influenced his political career.",
+        "numberOfVotes" : "0",
+        "state" : "Somalia",
+        "image" : "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxeHRi-n0kwWCbk5bhdqc-PZgSc8uLnrAn56plFS7VfPCmQdMMfuxZWE3-xrLFkHfYkFXD3ijwhDWcGl4q1AS9HQ"
+    },
+    {
+        "id" : "2",
+        "fName": "Hassan",
+        "lName": "Khayre",
+        "age" : "51",
+        "birthPlace": "Mogadisho",
+        "party" : "Peace",
+        "backgoundStudy": "The former Prime Minister of Somalia (2017–2020), has an academic background in management and business administration. He studied in Norway and earned a Bachelor’s degree in Political Science and a Master’s degree in Business Administration (MBA) from Heriot-Watt University in Scotland.",
+        "numberOfVotes" : "0",
+        "state" : "Somalia",
+        "image" : "https://d1b3667xvzs6rz.cloudfront.net/2020/07/Somalia-PM-Hassan-Ali-Khaire.jpg"
+    },
+    {
+        "id" : "3",
+        "fName": "Saed",
+        "lName": "Deni",
+        "age" : "54",
+        "birthPlace": "mogadisho",
+        "party" : "Kaah",
+        "numberOfVotes" : "0",
+        "backgoundStudy": "The current President of Puntland (since 2019) and a Somali politician, has an academic background in business and economics. He studied in Sudan, where he earned a degree in Business Administration and Economics.",
+        "state" : "Somalia",
+        "image" : "https://horufadhimedia.com/wp-content/uploads/2022/04/Deni-Gaalkacyo.jpg"
+    }
+
+    
+
+]

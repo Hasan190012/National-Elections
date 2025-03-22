@@ -1,0 +1,37 @@
+@use '../../variable.scss' as mixin;
+
+.presidents_container{
+
+    margin-left: 35px;
+    
+
+    .header{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: mixin.$spaceY;
+        flex-direction: column;
+
+        span {
+            font-size: mixin.$haedingFontSize;
+            line-height: 56px;
+            font-weight: 700;
+        }
+        p{
+            color: mixin.$secondaryTextColor;
+            font-size: 1rem;
+            margin: 1px 5px; 
+            line-height: 28px;
+            word-wrap: break-word;
+            text-align: center;
+            width: mixin.$tabletBreakPionts;
+        }
+    }
+    .presidential{
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(350px , 1fr));
+        align-items: center;
+        justify-content: center;
+        margin: mixin.$spaceY;
+    }
+}
